@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marinaseaside.co.ke/sitemap.xml
